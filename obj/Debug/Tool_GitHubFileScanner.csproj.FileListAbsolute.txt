@@ -1,0 +1,7 @@
+F:\_Development\Security Perspectives\Active Projects\SPI-Global\Tool_GitHubFileScanner\bin\Debug\Tool_GitHubFileScanner.exe.config
+F:\_Development\Security Perspectives\Active Projects\SPI-Global\Tool_GitHubFileScanner\bin\Debug\Tool_GitHubFileScanner.exe
+F:\_Development\Security Perspectives\Active Projects\SPI-Global\Tool_GitHubFileScanner\bin\Debug\Tool_GitHubFileScanner.pdb
+F:\_Development\Security Perspectives\Active Projects\SPI-Global\Tool_GitHubFileScanner\obj\Debug\Tool_GitHubFileScanner.csprojAssemblyReference.cache
+F:\_Development\Security Perspectives\Active Projects\SPI-Global\Tool_GitHubFileScanner\obj\Debug\Tool_GitHubFileScanner.csproj.CoreCompileInputs.cache
+F:\_Development\Security Perspectives\Active Projects\SPI-Global\Tool_GitHubFileScanner\obj\Debug\Tool_GitHubFileScanner.exe
+F:\_Development\Security Perspectives\Active Projects\SPI-Global\Tool_GitHubFileScanner\obj\Debug\Tool_GitHubFileScanner.pdb

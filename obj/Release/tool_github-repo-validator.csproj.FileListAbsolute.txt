@@ -1,0 +1,6 @@
+F:\_Development\Security Perspectives\Active Projects\SPI-Tools\tool_github-repo-validator\bin\Release\Tool_GitHubFileScanner.exe.config
+F:\_Development\Security Perspectives\Active Projects\SPI-Tools\tool_github-repo-validator\bin\Release\Tool_GitHubFileScanner.exe
+F:\_Development\Security Perspectives\Active Projects\SPI-Tools\tool_github-repo-validator\bin\Release\Tool_GitHubFileScanner.pdb
+F:\_Development\Security Perspectives\Active Projects\SPI-Tools\tool_github-repo-validator\obj\Release\tool_github-repo-validator.csproj.CoreCompileInputs.cache
+F:\_Development\Security Perspectives\Active Projects\SPI-Tools\tool_github-repo-validator\obj\Release\Tool_GitHubFileScanner.exe
+F:\_Development\Security Perspectives\Active Projects\SPI-Tools\tool_github-repo-validator\obj\Release\Tool_GitHubFileScanner.pdb

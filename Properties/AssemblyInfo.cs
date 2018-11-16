@@ -1,4 +1,14 @@
-﻿using System.Reflection;
+﻿//*******************************************************************************
+//	Notice:		Copyright (c) Sercurity Perspectives Inc. All Rights Reserved
+//	Website:	https://www.securityperspectives.com/
+//	Project:	tool_github-repo-validator
+//	File:		AssemblyInfo.cs
+//	Author:		Joshua Vinters
+//	Date:		2018/11/15
+//	Time:		3:50 PM
+//*******************************************************************************
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

@@ -1,4 +1,14 @@
-﻿using System;
+﻿//*******************************************************************************
+//	Notice:		Copyright (c) Sercurity Perspectives Inc. All Rights Reserved
+//	Website:	https://www.securityperspectives.com/
+//	Project:	tool_github-repo-validator
+//	File:		Program.cs
+//	Author:		Joshua Vinters
+//	Date:		2018/11/15
+//	Time:		7:17 PM
+//*******************************************************************************
+
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
